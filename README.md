@@ -1,4 +1,4 @@
-# Ex No :06
+# Ex No :07
 
 # <p align="center"> Implement the AI chasing when AI see the player </p>
 
